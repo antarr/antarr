@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![Antarr's github stats](https://github-readme-stats.vercel.app/api?username=antarr)](https://github.com/antarr/github-readme-stats)
+
+[![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=antarr&show_icons=true&count_private=true&langs_count=10&layout=compact&hide=html,css,lua)](https://github.com/antarr/github-readme-stats)
 <!--
 **antarr/antarr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
