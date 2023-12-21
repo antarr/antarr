@@ -87,7 +87,7 @@ function generateMarkdown() {
 
   ## Highlights
 
-  <details>\n
+  // <details>\n
   // <summary>OSS Projects</summary>\n
   // <br />
   // Here are some of my other projects you might want to check out that are not pinned:\n

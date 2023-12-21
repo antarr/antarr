@@ -8,7 +8,7 @@
   </div>
 <hr>
 <h2>Highlights</h2>
-  <details>
+<p>// <details></p>
 <p>// <summary>OSS Projects</summary></p>
 <p>// <br /><br>
 // Here are some of my other projects you might want to check out that are not pinned:</p>
