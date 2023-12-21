@@ -39,7 +39,6 @@ const md = require("markdown-it")({
     linkify: true // Autoconvert URL-like text to links
 });
 const fetchRssData_1 = require("./fetchRssData");
-const fetchGithubData_1 = require("./fetchGithubData");
 const blogFeedUrl = "https://medium.com/feed/@antarr";
 // const newsletterFeedUrl = "https://bawd.bolajiayodeji.com/feed";
 const ossProjectRepos = [
@@ -86,23 +85,7 @@ function generateMarkdown() {
   ---\n
 
   ## Highlights
-  <!--
-  <details>\n
-  <summary>OSS Projects</summary>\n
-  <br />
-  Here are some of my other projects you might want to check out that are not pinned:\n
-  <br />\n<br />
-  ${yield (0, fetchGithubData_1.fetchGitHubData)(ossProjectRepos)}\n
-  </details>\n
 
-  <details>\n
-  <summary>OSS Learning Materials</summary>\n
-  <br />
-  Here are some of my unique-styled workshop materials you can use to learn key concepts at your own pace:\n
-  <br />\n<br />
-  ${yield (0, fetchGithubData_1.fetchGitHubData)(ossLearningMaterialRepos)}\n
-  </details>\n
-  -->
   <details>\n
   <summary>Recent Blogposts</summary>\n
   <br />
