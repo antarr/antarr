@@ -14,7 +14,7 @@ const ossProjectRepos = [
   "antarr",
   "Withings.NET"
 ];
-const ossLearningMaterialRepos = ["deploy-ml-web-workshop", "cl-composable-commerce-workshop"];
+const ossLearningMaterialRepos = ["rust-advent-2022", "Exercism-Solutions", "CodeEval-Solutions"]
 
 const githubUsername = "antarr";
 const websiteUrl = "https://antarr.dev/";
