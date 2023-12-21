@@ -9,25 +9,25 @@
 <hr>
 <h2>Highlights</h2>
   <details>
-  <summary>OSS Projects</summary>
-  <br />
-  Here are some of my other projects you might want to check out that are not pinned:
-  <br />
-<br />
-  <ul><li><a href=https://github.com/antarr/antarr target="_blank" rel="noopener noreferrer">antarr/antarr</a> (<b>0</b> ✨ and <b>0</b> 🍴): null</li><li><a href=https://github.com/antarr/Withings.NET target="_blank" rel="noopener noreferrer">antarr/Withings.NET</a> (<b>4</b> ✨ and <b>1</b> 🍴): Wrapper around the Withings Health Data api.</li>
+<p>// <summary>OSS Projects</summary></p>
+<p>// <br /><br>
+// Here are some of my other projects you might want to check out that are not pinned:</p>
+<p>// <br /><br>
+<br /><br>
+// <ul><li><a href=https://github.com/antarr/antarr target="_blank" rel="noopener noreferrer">antarr/antarr</a> (<b>0</b> ✨ and <b>0</b> 🍴): null</li><li><a href=https://github.com/antarr/Withings.NET target="_blank" rel="noopener noreferrer">antarr/Withings.NET</a> (<b>4</b> ✨ and <b>1</b> 🍴): Wrapper around the Withings Health Data api.</li></p>
 <li>More coming soon :).</li>
 </ul>
-  </details>
-  <details>
-  <summary>OSS Learning Materials</summary>
-  <br />
-  Here are some of my unique-styled workshop materials you can use to learn key concepts at your own pace:
-  <br />
-<br />
-  <ul><li><a href=https://github.com/antarr/rust-advent-2022 target="_blank" rel="noopener noreferrer">antarr/rust-advent-2022</a> (<b>1</b> ✨ and <b>0</b> 🍴): Copilot and ChatGPT assisted Advent of Code 2022 to learn Rust.</li><li><a href=https://github.com/antarr/Exercism-Solutions target="_blank" rel="noopener noreferrer">antarr/Exercism-Solutions</a> (<b>0</b> ✨ and <b>0</b> 🍴): Solutions to exercises found on exercism.io</li><li><a href=https://github.com/antarr/CodeEval-Solutions target="_blank" rel="noopener noreferrer">antarr/CodeEval-Solutions</a> (<b>0</b> ✨ and <b>0</b> 🍴): Solutions for CodeEval.com</li>
+<p>// </details></p>
+<p>// <details></p>
+<p>// <summary>OSS Learning Materials</summary></p>
+<p>// <br /><br>
+// Here are some of my unique-styled workshop materials you can use to learn key concepts at your own pace:</p>
+<p>// <br /><br>
+<br /><br>
+// <ul><li><a href=https://github.com/antarr/rust-advent-2022 target="_blank" rel="noopener noreferrer">antarr/rust-advent-2022</a> (<b>1</b> ✨ and <b>0</b> 🍴): Copilot and ChatGPT assisted Advent of Code 2022 to learn Rust.</li><li><a href=https://github.com/antarr/Exercism-Solutions target="_blank" rel="noopener noreferrer">antarr/Exercism-Solutions</a> (<b>0</b> ✨ and <b>0</b> 🍴): Solutions to exercises found on <a href="http://exercism.io">exercism.io</a></li><li><a href=https://github.com/antarr/CodeEval-Solutions target="_blank" rel="noopener noreferrer">antarr/CodeEval-Solutions</a> (<b>0</b> ✨ and <b>0</b> 🍴): Solutions for <a href="http://CodeEval.com">CodeEval.com</a></li></p>
 <li>More coming soon :).</li>
 </ul>
-  </details>
+<p>// </details></p>
   <details>
   <summary>Recent Blogposts</summary>
   <br />
