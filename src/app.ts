@@ -5,7 +5,7 @@ const md = require("markdown-it")({
   linkify: true // Autoconvert URL-like text to links
 });
 import { fetchRssData } from "./fetchRssData";
-import { fetchGitHubData } from "./fetchGitHubData";
+import { fetchGitHubData } from "./fetchGithubData";
 
 const blogFeedUrl = "https://medium.com/feed/@antarr";
 // const newsletterFeedUrl = "https://bawd.bolajiayodeji.com/feed";
