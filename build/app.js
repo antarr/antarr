@@ -108,13 +108,16 @@ function generateMarkdown() {
   <br />
   ${yield (0, fetchRssData_1.fetchRssData)(blogFeedUrl)}\n
   </details>\n
+
+  <details>\n
+  <summary>Projects</summary>\n\n
+  - Currently: [The WeVoteProject](https://wevoteproject.com)\n
+  - Previous: [HonestPolicy](https://honestpolicy.com)\n
   </details>\n
 
   <details>\n
   <summary>Quick Tips</summary>\n\n
   - 💬 How to reach me: DM [@debuggn_life](https://twitter.com/debuggn_life) on X (Twitter).\n
-  - 📖 Book recommendations: [Knowing God by J. I. Packer](https://bit.ly/3EdCFUW) and [Atomic Habits by James Clear](https://bit.ly/45r1kBH).\n
-  - 💙 Fun fact: I'm in a blissful relationship [with Jesus Christ](https://biblegateway.com/passage/?search=1+Corinthians+15%3A1-11&version=NKJV). Check [this](https://bit.ly/3KYYHij) out :).\n
   </details>\n
 
   ---\n
@@ -122,7 +125,7 @@ function generateMarkdown() {
   <a href="#">Learn how this works.</a> <a href="https://github.com/BolajiAyodeji/BolajiAyodeji/actions/workflows/build.yml"><img src="https://github.com/BolajiAyodeji/BolajiAyodeji/actions/workflows/build.yml/badge.svg" align="right" alt="Rebuild README.md file"></a>\n
 
   <div align="center">\n
-   <a href="https://bolajiayodeji.com" target="_blank" rel="noopener noreferrer"><img src="https://bolajiayodeji.com/favicon.png" width="30" /></a>\n
+   <a href="https://antarr.dev" target="_blank" rel="noopener noreferrer"><img src="https://antarr.dev/static/537cfb11a58a1239fdc9078da204b20c/8dbf3/me.webp" width="30" /></a>\n
   </div>`;
         const result = md.render(markdownText);
         fs.writeFile("README.md", result, (error) => {

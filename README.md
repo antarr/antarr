@@ -36,23 +36,25 @@
   </ul>
 <p>Read more newsletter issues: <a href="https://medium.com/feed/@antarr">https://medium.com/feed/@antarr</a>.</p>
   </details>
+  <details>
+  <summary>Projects</summary>
+<ul>
+<li>
+<p>Currently: <a href="https://wevoteproject.com">The WeVoteProject</a></p>
+</li>
+<li>
+<p>Previous: <a href="https://honestpolicy.com">HonestPolicy</a></p>
+</li>
+</ul>
   </details>
   <details>
   <summary>Quick Tips</summary>
 <ul>
-<li>
-<p>💬 How to reach me: DM <a href="https://twitter.com/debuggn_life">@debuggn_life</a> on X (Twitter).</p>
-</li>
-<li>
-<p>📖 Book recommendations: <a href="https://bit.ly/3EdCFUW">Knowing God by J. I. Packer</a> and <a href="https://bit.ly/45r1kBH">Atomic Habits by James Clear</a>.</p>
-</li>
-<li>
-<p>💙 Fun fact: I'm in a blissful relationship <a href="https://biblegateway.com/passage/?search=1+Corinthians+15%3A1-11&amp;version=NKJV">with Jesus Christ</a>. Check <a href="https://bit.ly/3KYYHij">this</a> out :).</p>
-</li>
+<li>💬 How to reach me: DM <a href="https://twitter.com/debuggn_life">@debuggn_life</a> on X (Twitter).</li>
 </ul>
   </details>
 <hr>
 <p><a href="#">Learn how this works.</a> <a href="https://github.com/BolajiAyodeji/BolajiAyodeji/actions/workflows/build.yml"><img src="https://github.com/BolajiAyodeji/BolajiAyodeji/actions/workflows/build.yml/badge.svg" align="right" alt="Rebuild README.md file"></a></p>
   <div align="center">
-<p><a href="https://bolajiayodeji.com" target="_blank" rel="noopener noreferrer"><img src="https://bolajiayodeji.com/favicon.png" width="30" /></a></p>
+<p><a href="https://antarr.dev" target="_blank" rel="noopener noreferrer"><img src="https://antarr.dev/static/537cfb11a58a1239fdc9078da204b20c/8dbf3/me.webp" width="30" /></a></p>
   </div>
